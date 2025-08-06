@@ -33,6 +33,7 @@ cd memoria-conexion
 
 ### 2. Instala las dependencias
 npm run dev
+
 Luego abre tu navegador en http://localhost:5173 🚀
 
 
