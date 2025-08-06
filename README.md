@@ -28,6 +28,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina:
 ### 1. Clona el repositorio
 
 git clone https://github.com/alejo7774/memoria-conexion.git
+
 cd memoria-conexion
 
 ### 2. Instala las dependencias
