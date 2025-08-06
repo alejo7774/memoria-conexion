@@ -40,12 +40,19 @@ Luego abre tu navegador en http://localhost:5173 🚀
 📁 Estructura del proyecto
 
 memoria-conexion/
+
 ├── public/               # Archivos estáticos
+
 ├── src/                  # Código fuente
+
 │   ├── components/       # Componentes reutilizables
+
 │   └── data/             # Preguntas o tarjetas del juego
+
 ├── package.json          # Dependencias y scripts
+
 └── README.md             # Este archivo 😜
+
 
 
 
