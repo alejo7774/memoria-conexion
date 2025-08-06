@@ -37,17 +37,16 @@ npm run dev
 Luego abre tu navegador en http://localhost:5173 🚀
 
 
-📂 Estructura del proyecto
+📁 Estructura del proyecto
 
 memoria-conexion/
-│
-├── src/                # Código fuente
-│   ├── components/     # Componentes reutilizables
-│   ├── data/           # Preguntas o tarjetas del juego
-│   └── ...
-├── public/             # Archivos estáticos
-├── package.json        # Dependencias y scripts
-└── README.md           # Este archivo 😉
+├── public/               # Archivos estáticos
+├── src/                  # Código fuente
+│   ├── components/       # Componentes reutilizables
+│   └── data/             # Preguntas o tarjetas del juego
+├── package.json          # Dependencias y scripts
+└── README.md             # Este archivo 😜
+
 
 
 🤝 Contribuciones
