@@ -49,6 +49,7 @@ memoria-conexion/
 ├── package.json        # Dependencias y scripts
 └── README.md           # Este archivo 😉
 
+
 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas, mejoras o quieres añadir nuevas tarjetas, puedes hacer un fork y enviar un pull request.
 
